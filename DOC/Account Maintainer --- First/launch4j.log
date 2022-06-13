@@ -1,0 +1,14 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\Welcome\Desktop\Account Maintainer --- First\Account_Maintainer.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Welcome\Desktop\Account Maintainer --- First\.
+Java min ver:	
+Java max ver:	
+Bundled JRE(s):	jre
+Check launcher:	C:\Users\Welcome\Desktop\Account Maintainer --- First\jre\bin\javaw.exe (OK)
+Launcher:	C:\Users\Welcome\Desktop\Account Maintainer --- First\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Welcome\Desktop\Account Maintainer --- First\Account_Maintainer.exe"
+Args length:	83/32768 chars
+Exit code:	0
